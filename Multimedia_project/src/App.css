@@ -1,0 +1,14 @@
+body
+{
+  --bg-color: #FFFF;
+  --bg-button-color:rgba(115, 93, 253, 1);
+  --h-bg-family:'Nunito';
+  --color: #242331;
+
+}
+*
+{
+  margin: 0;
+  padding: 0;
+  /* background-color: var(--bg-color); */
+}

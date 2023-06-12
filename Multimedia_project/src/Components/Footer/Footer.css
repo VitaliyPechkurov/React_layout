@@ -1,0 +1,101 @@
+.Footer
+{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.Footer p
+{
+    color: #797979;
+}
+.Footer_menu_1
+{
+    flex: 2;
+}
+
+.Footer_menu_2
+{
+    flex: 2;
+}
+.Footer_menu_3
+{
+    flex: 2;
+}
+.Footer_menu_4
+{
+    flex: 2;
+    width: 250px;
+    height: 250px;
+    background-color: #F9F9F9;
+    border-radius: 10px;
+}
+.Footer_menu_list_1 p
+{
+    margin-top: 20px;
+}
+.Footer_menu_list_2
+{
+    display: flex;
+    margin-top: 20px;
+}
+.Footer_menu_list_2 p
+{
+    margin-left: 10px;
+}
+
+.Footer_menu_list_3
+{
+    display: flex;
+    margin-top: 20px;
+}
+.Footer_menu_list_3 p
+{
+    margin-left: 10px;
+}
+.Footer_menu_group_2 ul li
+{
+    list-style-type: none;
+    margin-top: 15px;
+    color: #797979;
+}
+.Footer_menu_group_3 ul li
+{
+    list-style-type: none;
+    margin-top: 15px;
+    color: #797979;
+}
+.Footer_menu_4_text
+{
+    text-align: center;
+    margin-top: 40px;
+}
+.Footer_menu_4_text p
+{
+    margin-top: 10px;
+}
+.Footer_menu_4_button
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.Footer_menu_4_button_app
+{
+    border: 1px solid black;
+    height: 50px;
+    border-radius: 19px;
+    width: 100px;
+    background-color: black;
+    color: #F9F9F9;
+}
+.Footer_menu_4_button_andr
+{
+    border: 1px solid black;
+    height: 50px;
+    border-radius: 19px;
+    width: 100px;
+    
+  
+}

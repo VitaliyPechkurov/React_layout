@@ -1,0 +1,53 @@
+.Third_block
+{
+    margin-top: 70px;
+    width: 100%;
+    height: 500px;
+    background-color: #5236FF;
+    text-align: center;
+}
+
+.Third_block_button button
+{
+    border: 1px solid black;
+    height: 45px;
+    border-radius: 19px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: #6850FF;
+    color: #FFFFFF;
+}
+.Third_block_button h2
+{
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.Third_block_button h3
+{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.Third_block_button p
+{
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.Third_block_form img
+{
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.Third_block_form p
+{
+    font-size: 15px;
+}
+.Third_block_form h4
+{
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.Third_block_form_star img
+{
+    margin-top: 10px;
+}
